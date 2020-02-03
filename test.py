@@ -1,7 +1,19 @@
-for i in range(1,10,5):
-    print(i)
-
+# for i in range(1,10,5):
+#     print(i)
+#
+# a= [1,2,3,]
+# b = a
+# b[0] = 5
+# print(a)
+#
+# a = 5
+# for i in range(a):
+#     a -=1
+#     print(i)
 # a = [1,2,3,]
+if True:
+    temp = 6
+print(temp)
 # a.insert(1,'#')
 # print(a)
 #

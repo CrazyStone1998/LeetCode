@@ -1,0 +1,76 @@
+class BinaryTree:
+    # strategy = 0 or 1
+    # if strategy == 1, this is a big heap
+    # elif strategy == 0, this is a small heap
+    def __init__(self, arr, strategy=1):
+        self.strategy = strategy
+        self.heap = [0 for i in range(len(arr))]
+        self.size = 0
+
+        for i in arr:
+            self._add(i)
+
+    def sort(self):
+        for i in range(self.size - 1):
+            self.size -= 1
+            self.heap[0], self.heap[self.size] = self.heap[self.size], self.heap[0]
+            self._down(0)
+        return self.heap
+
+        return [self.pop() for i in range(self.size)]
+
+    def _add(self, value):
+        self.heap[self.size] = value
+        self._up(self.size)
+        self.size += 1
+
+    def pop(self):
+        result = self.heap[0]
+        self.size -= 1
+        self.heap[0] = self.heap[self.size]
+        self._down(0)
+        return result
+
+    def _up(self, pos):
+        if self.strategy:
+            while pos > 0:
+                parent = (pos - 1) // 2
+                if self.heap[parent] >= self.heap[pos]:
+                    break
+                else:
+                    self.heap[parent], self.heap[pos] = self.heap[pos], self.heap[parent]
+                pos = parent
+        else:
+            while pos > 0:
+                parent = (pos - 1) // 2
+                if self.heap[parent] <= self.heap[pos]:
+                    break
+                else:
+                    self.heap[parent], self.heap[pos] = self.heap[pos], self.heap[parent]
+                pos = parent
+
+    def _down(self, pos):
+        if self.strategy:
+
+            while True:
+                child = 2 * pos + 1
+                if child >= self.size:
+                    break
+                if child + 1 < self.size and self.heap[child + 1] > self.heap[child]:
+                    child += 1
+                if self.heap[pos] >= self.heap[child]:
+                    break
+
+                self.heap[pos], self.heap[child] = self.heap[child], self.heap[pos]
+                pos = child
+        else:
+            while True:
+                child = 2 * pos + 1
+                if child >= self.size:
+                    break
+                if child + 1 < self.size and self.heap[child + 1] < self.heap[child]:
+                    child += 1
+                if self.heap[pos] <= self.heap[child]:
+                    break
+                self.heap[pos], self.heap[child] = self.heap[child], self.heap[pos]
+                pos = child
