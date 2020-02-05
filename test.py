@@ -9,11 +9,17 @@
 # a = 5
 # for i in range(a):
 #     a -=1
-#     print(i)
-# a = [1,2,3,]
-if True:
-    temp = 6
-print(temp)
+
+# d[2] = []
+# d[2].append([['pre'] + k for k in a])
+# print(d[2])
+#     temp = 6
+# print(temp)
+# a =[ 1,2,3]
+# b = a[1:]
+# b[0] = 2
+# print(a)
+# print(a+b)
 # a.insert(1,'#')
 # print(a)
 #
