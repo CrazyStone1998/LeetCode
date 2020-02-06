@@ -1,3 +1,39 @@
+# from functools import cmp_to_key
+print(ord('0'))
+print(chr(42))
+# def custom_key(x,y):
+#     x = str(x)
+#     y = str(y)
+#     len_x = len(x)
+#     len_y = len(y)
+#     th = len_x if len_x > len_y else len_y
+#
+#     x = x+'00000000'
+#     y = y+'00000000'
+#
+#     for i in range(th):
+#
+#         if int(x[0]) < int(y[0]):
+#             return -1
+#         elif int(x[0]) > int(y[0]):
+#             return 1
+#     return 0
+# print(sorted([1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9],key=cmp_to_key(custom_key)))
+
+# a = -1
+# b = 2
+# print(bin(a))
+# print(bin(b))
+# print(bin(a^b))
+# print(bin(a&b))
+
+# i = a ^ b
+# j = (a & b) << 1
+# for k in range(10):
+#     i, j = i ^ j, (i & j) << 1
+#     print(i)
+#     print(j)
+
 # for i in range(1,10,5):
 #     print(i)
 #

@@ -1,0 +1,47 @@
+class ListNode:
+
+    def __init__(self, val=None, next=None):
+        self.val = val
+        self.next = next
+
+
+class LinkList:
+
+    def __init__(self):
+        self.cur = self.root = ListNode(-1)
+        self.size = 0
+
+    def insert(self, val):
+        self.cur.next = ListNode(val=val)
+        self.cur = self.cur.next
+        self.size += 1
+
+    def scan(self):
+        temp = self.root.next
+        while temp:
+            print(temp.val, end=' -> ')
+            temp = temp.next
+        print()
+    def reverse(self):
+        if self.size > 1:
+            parent = self.root.next
+            cur = parent.next
+            parent.next = None
+
+            while cur:
+                temp = cur.next
+                cur.next = parent
+                parent = cur
+                cur = temp
+        self.root.next = parent
+
+if __name__ == '__main__':
+    link = LinkList()
+    for i in range(10):
+        link.insert(i)
+    link.scan()
+    print(link.size)
+    link.reverse()
+    link.scan()
+
+
