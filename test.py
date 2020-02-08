@@ -1,6 +1,15 @@
+print(ord('a'))
+print(ord('A'))
+print(ord('z'))
+print(ord('Z'))
+print(122-97+1)
+print(ord('a')-ord('A'))
+print(''.lower())
+
 # from functools import cmp_to_key
-print(ord('0'))
-print(chr(42))
+
+# print(ord('0'))
+# print(chr(42))
 # def custom_key(x,y):
 #     x = str(x)
 #     y = str(y)
