@@ -1,10 +1,7 @@
-print(ord('a'))
-print(ord('A'))
-print(ord('z'))
-print(ord('Z'))
-print(122-97+1)
-print(ord('a')-ord('A'))
-print(''.lower())
+a = set()
+b = set([1,2,3])
+print(b)
+a.add(b)
 
 # from functools import cmp_to_key
 
