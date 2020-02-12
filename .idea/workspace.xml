@@ -2,58 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8a7812d-659a-4227-9dd7-87834ee62d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1208.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123 *.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1277.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18 *.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214 *.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/343.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/413 *.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/446 *.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/639* .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/65 *.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/80.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/84.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/85.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/91.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/ChildString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/152 *.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40 **.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/529 *.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1277 *.py" beforeDir="false" afterPath="$PROJECT_DIR$/105 *.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/343 *.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/354 *.py" beforeDir="false" afterPath="$PROJECT_DIR$/354 *.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45 *.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/55 *.py" beforeDir="false" afterPath="$PROJECT_DIR$/121.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/60 *.py" beforeDir="false" afterPath="$PROJECT_DIR$/60 *.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Permutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="LeetCode" />
@@ -90,8 +77,8 @@
       <recent name="$PROJECT_DIR$/Recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.32">
-    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.69">
+    <configuration name="29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,73 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,13 +122,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/43.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="69" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/69.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.69" />
+        <item itemvalue="Python.43" />
+        <item itemvalue="Python.39" />
+        <item itemvalue="Python.29" />
         <item itemvalue="Python.32" />
-        <item itemvalue="Python.20" />
-        <item itemvalue="Python.17" />
-        <item itemvalue="Python.14" />
-        <item itemvalue="Python.13" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +245,9 @@
       <workItem from="1581171811896" duration="3205000" />
       <workItem from="1581211401208" duration="27327000" />
       <workItem from="1581311247561" duration="27486000" />
-      <workItem from="1581381924393" duration="40727000" />
+      <workItem from="1581381924393" duration="40881000" />
+      <workItem from="1581467247181" duration="16525000" />
+      <workItem from="1581493014892" duration="17994000" />
     </task>
     <servers />
   </component>
@@ -270,10 +259,10 @@
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
     <state x="555" y="227" width="802" height="696" key="#Notifications/0.44.1920.1036@0.44.1920.1036" timestamp="1580866742716" />
-    <state x="612" y="342" width="720" height="446" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581128369493">
+    <state x="612" y="342" width="720" height="446" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581467304708">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state x="612" y="342" width="720" height="446" key="#com.intellij.fileTypes.FileTypeChooser/0.44.1920.1036@0.44.1920.1036" timestamp="1581128369493" />
+    <state x="612" y="342" width="720" height="446" key="#com.intellij.fileTypes.FileTypeChooser/0.44.1920.1036@0.44.1920.1036" timestamp="1581467304708" />
     <state x="647" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580351773469">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
@@ -298,46 +287,50 @@
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
     <state width="1866" height="299" key="GridCell.Tab.-1.right/0.44.1920.1036@0.44.1920.1036" timestamp="1579251157505" />
-    <state width="1866" height="97" key="GridCell.Tab.0.bottom" timestamp="1581436567557">
+    <state width="1866" height="235" key="GridCell.Tab.0.bottom" timestamp="1581523538619">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="1866" height="97" key="GridCell.Tab.0.bottom/0.44.1920.1036@0.44.1920.1036" timestamp="1581436567557" />
-    <state width="1866" height="97" key="GridCell.Tab.0.center" timestamp="1581436567556">
+    <state width="1866" height="235" key="GridCell.Tab.0.bottom/0.44.1920.1036@0.44.1920.1036" timestamp="1581523538619" />
+    <state width="1866" height="235" key="GridCell.Tab.0.center" timestamp="1581523538619">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="1866" height="97" key="GridCell.Tab.0.center/0.44.1920.1036@0.44.1920.1036" timestamp="1581436567556" />
-    <state width="1866" height="97" key="GridCell.Tab.0.left" timestamp="1581436567556">
+    <state width="1866" height="235" key="GridCell.Tab.0.center/0.44.1920.1036@0.44.1920.1036" timestamp="1581523538619" />
+    <state width="1866" height="235" key="GridCell.Tab.0.left" timestamp="1581523538619">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="1866" height="97" key="GridCell.Tab.0.left/0.44.1920.1036@0.44.1920.1036" timestamp="1581436567556" />
-    <state width="1866" height="97" key="GridCell.Tab.0.right" timestamp="1581436567557">
+    <state width="1866" height="235" key="GridCell.Tab.0.left/0.44.1920.1036@0.44.1920.1036" timestamp="1581523538619" />
+    <state width="1866" height="235" key="GridCell.Tab.0.right" timestamp="1581523538619">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="1866" height="97" key="GridCell.Tab.0.right/0.44.1920.1036@0.44.1920.1036" timestamp="1581436567557" />
-    <state width="866" height="676" key="GridCell.Tab.1.bottom" timestamp="1581429616893">
+    <state width="1866" height="235" key="GridCell.Tab.0.right/0.44.1920.1036@0.44.1920.1036" timestamp="1581523538619" />
+    <state width="754" height="538" key="GridCell.Tab.1.bottom" timestamp="1581523417538">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="866" height="676" key="GridCell.Tab.1.bottom/0.44.1920.1036@0.44.1920.1036" timestamp="1581429616893" />
-    <state width="866" height="676" key="GridCell.Tab.1.center" timestamp="1581429616892">
+    <state width="754" height="538" key="GridCell.Tab.1.bottom/0.44.1920.1036@0.44.1920.1036" timestamp="1581523417538" />
+    <state width="754" height="538" key="GridCell.Tab.1.center" timestamp="1581523417538">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="866" height="676" key="GridCell.Tab.1.center/0.44.1920.1036@0.44.1920.1036" timestamp="1581429616892" />
-    <state width="866" height="676" key="GridCell.Tab.1.left" timestamp="1581429616892">
+    <state width="754" height="538" key="GridCell.Tab.1.center/0.44.1920.1036@0.44.1920.1036" timestamp="1581523417538" />
+    <state width="754" height="538" key="GridCell.Tab.1.left" timestamp="1581523417538">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="866" height="676" key="GridCell.Tab.1.left/0.44.1920.1036@0.44.1920.1036" timestamp="1581429616892" />
-    <state width="866" height="676" key="GridCell.Tab.1.right" timestamp="1581429616892">
+    <state width="754" height="538" key="GridCell.Tab.1.left/0.44.1920.1036@0.44.1920.1036" timestamp="1581523417538" />
+    <state width="754" height="538" key="GridCell.Tab.1.right" timestamp="1581523417538">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state width="866" height="676" key="GridCell.Tab.1.right/0.44.1920.1036@0.44.1920.1036" timestamp="1581429616892" />
+    <state width="754" height="538" key="GridCell.Tab.1.right/0.44.1920.1036@0.44.1920.1036" timestamp="1581523417538" />
     <state x="706" y="331" key="SettingsEditor" timestamp="1581436621312">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
     <state x="706" y="331" key="SettingsEditor/0.44.1920.1036@0.44.1920.1036" timestamp="1581436621312" />
-    <state x="603" y="273" width="711" height="678" key="search.everywhere.popup" timestamp="1581435024773">
+    <state x="978" y="250" key="refactoring.ChangeSignatureDialog" timestamp="1581489593844">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
-    <state x="603" y="273" width="711" height="678" key="search.everywhere.popup/0.44.1920.1036@0.44.1920.1036" timestamp="1581435024773" />
+    <state x="978" y="250" key="refactoring.ChangeSignatureDialog/0.44.1920.1036@0.44.1920.1036" timestamp="1581489593844" />
+    <state x="603" y="273" width="711" height="678" key="search.everywhere.popup" timestamp="1581520365377">
+      <screen x="0" y="44" width="1920" height="1036" />
+    </state>
+    <state x="603" y="273" width="711" height="678" key="search.everywhere.popup/0.44.1920.1036@0.44.1920.1036" timestamp="1581520365377" />
     <state x="676" y="459" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581066702964">
       <screen x="0" y="44" width="1920" height="1036" />
     </state>
@@ -406,6 +399,16 @@
           <line>1</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/39.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/69.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -420,21 +423,24 @@
     <SUITE FILE_PATH="coverage/LeetCode$343.coverage" NAME="343 Coverage Results" MODIFIED="1581258953286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$LCS.coverage" NAME="LCS Coverage Results" MODIFIED="1579183549427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$91__.coverage" NAME="91 * Coverage Results" MODIFIED="1581221483388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$29.coverage" NAME="29 Coverage Results" MODIFIED="1581474227741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$306.coverage" NAME="306 Coverage Results" MODIFIED="1579241845124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$20.coverage" NAME="20 Coverage Results" MODIFIED="1581424092978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$524.coverage" NAME="524 Coverage Results" MODIFIED="1579342079452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$23.coverage" NAME="23 Coverage Results" MODIFIED="1580908811101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$17.coverage" NAME="17 Coverage Results" MODIFIED="1581423083508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1581334873559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$32.coverage" NAME="32 Coverage Results" MODIFIED="1581429549110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$32.coverage" NAME="32 Coverage Results" MODIFIED="1581468243615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$5.coverage" NAME="5 Coverage Results" MODIFIED="1579313950214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$14.coverage" NAME="14 Coverage Results" MODIFIED="1581408452742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$659.coverage" NAME="659 Coverage Results" MODIFIED="1579262138350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$92.coverage" NAME="92 Coverage Results" MODIFIED="1581131495739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$69.coverage" NAME="69 Coverage Results" MODIFIED="1581523538611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$413__.coverage" NAME="413 * Coverage Results" MODIFIED="1581327307482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$3.coverage" NAME="3 Coverage Results" MODIFIED="1581122850456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$60__.coverage" NAME="60 * Coverage Results" MODIFIED="1581405819472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$16.coverage" NAME="16 Coverage Results" MODIFIED="1581385788412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$39.coverage" NAME="39 Coverage Results" MODIFIED="1581498872101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Select.coverage" NAME="select Coverage Results" MODIFIED="1579401711071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortAlogrithm" />
     <SUITE FILE_PATH="coverage/LeetCode$4.coverage" NAME="4 Coverage Results" MODIFIED="1581085095471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$167.coverage" NAME="167 Coverage Results" MODIFIED="1580830032683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -448,6 +454,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$12.coverage" NAME="12 Coverage Results" MODIFIED="1581406209264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$79.coverage" NAME="79 Coverage Results" MODIFIED="1579244864226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$insert.coverage" NAME="insert Coverage Results" MODIFIED="1579402869204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortAlogrithm" />
+    <SUITE FILE_PATH="coverage/LeetCode$43.coverage" NAME="43 Coverage Results" MODIFIED="1581523406284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$221__.coverage" NAME="221 * Coverage Results" MODIFIED="1581244266086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$quickSort.coverage" NAME="quickSort Coverage Results" MODIFIED="1579418591970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortAlogrithm" />
     <SUITE FILE_PATH="coverage/LeetCode$46.coverage" NAME="46 Coverage Results" MODIFIED="1579148627568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
