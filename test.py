@@ -1,7 +1,9 @@
-a = set()
-b = set([1,2,3])
-print(b)
-a.add(b)
+# if -1:
+#     print(1151)
+# a = set()
+# b = set([1,2,3])
+# print(b)
+# a.add(b)
 
 # from functools import cmp_to_key
 
